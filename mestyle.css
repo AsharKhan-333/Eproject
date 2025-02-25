@@ -1,0 +1,26 @@
+
+.njw{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    
+}
+.imjh{
+position: absolute;
+width: 300px;
+    height: 300px;
+    z-index: -1;
+    
+}
+.mmk{
+    padding: 130px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    position: absolute;
+    display: none;
+}
+.njw:hover .mmk{
+display: inline;
+}
+

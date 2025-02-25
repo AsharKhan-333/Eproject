@@ -1,0 +1,168 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    
+}
+.button1{
+    background-color: red;
+    color: aliceblue;
+    border: 2px solid black;
+    height: 30px;
+}
+#ashar{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    height: 30px;
+}
+
+footer{
+    background-color: rgb(0, 41, 128);
+    height: 1000px;
+    display: flex;
+    width: 1348px;
+}
+.p1{
+    color: white;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.p2{
+    color: white;
+    padding-left: 50px;
+   font-size: 20px;
+   margin-top: -13px;
+}
+.p3{
+    color: white;
+    padding-left: 50px;
+    margin-top: -22px;
+    font-size: 20px;
+}
+.P4{
+    color: white; 
+    padding-left: 50px;
+    margin-top: 100px;
+}
+.ashar{
+    margin-left: 50px;
+    color: white; 
+    margin-top: -13px;
+}
+.ali{
+    margin-left: 50px;
+    color: white; 
+    margin-top: -15px;
+}
+.faiz{
+    margin-left: 50px;
+    color: white; 
+    margin-top: -15px;
+}
+.aleeyan{
+    margin-left: 50px;
+    color: white; 
+    margin-top: -15px;
+}
+   .paragraph{
+    margin-left: 50px;
+    color: white;
+    
+   }
+.div1{
+    width: 449px;
+    background-color: transparent;
+    height: 450px;
+}
+.div2{
+    width: 449px;
+    background-color: transparent;
+  
+    height: 450px;
+}
+
+
+.div3{
+    width: 449px;
+    background-color: transparent;
+  
+   height: 450px;
+}
+
+
+.input1{
+border-left: transparent;
+border-right: transparent;
+border-top: transparent;
+border-bottom: 2px solid white;
+background-color: transparent;
+margin-top: 100px;
+margin-left: 140px;
+
+
+}
+::placeholder{
+    color: white;
+}
+
+.icon1{
+    margin-top: 100px;
+margin-left: 300px;
+color: yellow;
+
+}
+
+.youtube{
+    color: yellow;
+    margin-left: 10px;
+}
+
+.myicon{
+    margin-top: 100px;
+margin-left: 300px;
+color: yellow;
+position: absolute;
+    padding-right: 100px;
+   
+    
+}
+
+.icon2{
+    color: yellow;
+   margin-left: 10px;
+   
+}
+.button2{
+    margin-left: 49px;
+    border-radius: 20px;
+    border-color: white;
+    padding: 7px;
+    width: 100px;
+    background-color: transparent;
+    color: white;
+}
+.button3{
+    margin-left: 49px;
+    border-radius: 20px;
+    border-color: white;
+    padding: 7px;
+    width: 220px;
+    background-color: transparent;
+    color: white;
+}
+.button4{
+    margin-left: 49px;
+    border-radius: 20px;
+    border-color: white;
+    padding: 7px;
+    width: 150px;
+    background-color: transparent;
+    color: white;
+}
+
+
+.paragraph{
+    margin-left: 50px;
+    color: white; 
+    margin-top: 100PX;
+}

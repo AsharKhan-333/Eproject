@@ -1,0 +1,115 @@
+
+.main{
+    position: relative;
+    
+}
+.football{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.csSI4RBTxmsNRSXPDKUHIAHaEy&pid=Api&P=0&h=220);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1000px;
+    height: 600px;
+}
+
+.icony{
+    
+    
+    position: absolute;
+    
+    font-size: 50px;
+    /* background-color: rgb(252, 252, 252); */
+}
+
+.ball{
+    animation: works 20s 2s 1;
+    position: absolute;
+    left: 437px;
+    top: 274px;
+    /* background-color: blue; */
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+@keyframes works {
+    5%{
+        left: 100px;
+        top: 200px;
+    }
+    10%{
+        top: 0px;
+        left: 89px;
+    }
+    15%{
+        top: 100px;
+        left: 200px;
+    }
+     20%{
+        top: 51px;
+        left: 150px;
+    }
+    25%{
+        top: 20px;
+        left: 239px;
+    }
+     30%{
+        top: 90px;
+        left: 500px;
+    }
+    35%{
+        top: 240px;
+        left: 176px;
+    }
+    40%{
+        top: 451px;
+        left: 300px;
+    }
+    45%{
+        top: 300px;
+        left: 870px;
+    }
+    50%{
+        top: 274px;
+        left: 437px;
+    }
+    55%{
+        top: 320px;
+        left: 759px;
+    }
+    60%{
+        top: 551px;
+        left: 232px;
+    }
+    65%{
+        top: 200px;
+        left: 89px;
+    }
+    70%{
+        top: 220px;
+        left: 650px;
+    }
+    75%{
+        top: 200px;
+        left: 89px;
+    }
+    80%{
+        top: 300px;
+        left: 0px;
+    }
+    85%{
+        top: 274px;
+        left: 437px;
+    }
+    90%{
+        top: 300px;
+        left: 470px;
+    }
+    95%{
+        top: 200px;
+        left: 89px;
+    }
+    100%{
+        top: 274px;
+        left: 437px;
+    }
+    }
